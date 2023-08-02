@@ -1,1 +1,2 @@
 # HOMEWORK
+inherentance class
